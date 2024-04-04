@@ -1,0 +1,20 @@
+Objective: 
+To develop a Q&A bot for the given dataset. Fine-tuning an open-source Language 
+Model (LLM) or integrate a Retrieval-Augmented Generation (RAG) technique with an LLM. 
+The complete code should be capable of running locally on a laptop or on any open-source 
+cloud platform (free for students). 
+Requirements: 
+1. Dataset: The dataset of 6 pdf documents can be found at the link. 
+2. Coding language: Python 
+3. Libraries: You are free to use any open-source libraries or frameworks you find 
+suitable for this task. 
+4. Model Architecture: Utilize open-source pre-trained language model architecture. 
+However, you must do either of the following: 
+• Fine-tune the model on the provided dataset. 
+• Include RAG technique in the pipeline. 
+5. Optimization: Perform memory optimization techniques to be able to run locally or on 
+a cloud platform. 
+6. Evaluation metric: For additional points, consider implementing an appropriate 
+evaluation metric. Manually verify the accuracy of the responses by generating and 
+validating a diverse set of questions derived from the provided PDF documents in the 
+dataset.
